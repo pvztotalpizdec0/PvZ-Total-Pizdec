@@ -1,0 +1,825 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Coin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Coin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Zombie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Zombie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Zombie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Zombie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Board.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\ZenGarden.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\ZenGarden.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Plant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Plant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PvZ-Quality-Enhanced-main\\Lawn\\Board.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\LawnApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LawnApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\GameSelector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Widget\\GameSelector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\System\\SaveGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\System\\SaveGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\BoardInclude.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\BoardInclude.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\LawnApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LawnApp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\CutScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\CutScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Projectile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Projectile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\ConstEnums.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConstEnums.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Plant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Plant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Resources.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Resources.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\AchievementsScreen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Widget\\AchievementsScreen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\GridItem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\GridItem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\SeedPacket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\SeedPacket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Challenge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Challenge.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\AlmanacDialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Widget\\AlmanacDialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\ZenGarden.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\ZenGarden.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\MessageWidget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\MessageWidget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\NewOptionsDialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Widget\\NewOptionsDialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\NewOptionsDialog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Widget\\NewOptionsDialog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\TitleScreen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Widget\\TitleScreen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\SexyAppFramework\\SexyAppBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SexyAppFramework\\SexyAppBase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\SexyAppFramework\\widget\\Dialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SexyAppFramework\\widget\\Dialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\SeedChooserScreen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Widget\\SeedChooserScreen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\ContinueDialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Widget\\ContinueDialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\CheatDialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Widget\\CheatDialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\LawnDialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Widget\\LawnDialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Sexy.TodLib\\TodStringFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sexy.TodLib\\TodStringFile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\StoreScreen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Widget\\StoreScreen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\GameConstants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameConstants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\ToolTipWidget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\ToolTipWidget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\ToolTipWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\ToolTipWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\SeedPacket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\SeedPacket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Projectile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Projectile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\LawnMower.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\LawnMower.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Sexy.TodLib\\TodCommon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sexy.TodLib\\TodCommon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\TitleScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Widget\\TitleScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\UserDialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Widget\\UserDialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\MessageWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\MessageWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\SexyAppFramework\\platform\\3ds\\graphics\\GLInterface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SexyAppFramework\\platform\\3ds\\graphics\\GLInterface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\AwardScreen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Widget\\AwardScreen.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\NewUserDialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lawn\\Widget\\NewUserDialog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BoardInclude.h",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\BoardInclude.h",
+              "RelativeDocumentMoniker": "Lawn\\BoardInclude.h",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\BoardInclude.h",
+              "RelativeToolTip": "Lawn\\BoardInclude.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-07T12:20:06.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Plant.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Plant.cpp",
+              "RelativeDocumentMoniker": "Lawn\\Plant.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Plant.cpp",
+              "RelativeToolTip": "Lawn\\Plant.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-26T15:19:13.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LawnApp.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\LawnApp.cpp",
+              "RelativeDocumentMoniker": "LawnApp.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\LawnApp.cpp",
+              "RelativeToolTip": "LawnApp.cpp",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAYwAcBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-26T20:00:29.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Projectile.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Projectile.cpp",
+              "RelativeDocumentMoniker": "Lawn\\Projectile.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Projectile.cpp",
+              "RelativeToolTip": "Lawn\\Projectile.cpp",
+              "ViewState": "AgIAAIYBAAAAAAAAAAAawJkBAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-26T15:24:22.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Board.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Board.cpp",
+              "RelativeDocumentMoniker": "Lawn\\Board.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Board.cpp",
+              "RelativeToolTip": "Lawn\\Board.cpp",
+              "ViewState": "AgIAAHUkAAAAAAAAAAAYwIokAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-26T16:35:31.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CutScene.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\CutScene.cpp",
+              "RelativeDocumentMoniker": "Lawn\\CutScene.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\CutScene.cpp",
+              "RelativeToolTip": "Lawn\\CutScene.cpp",
+              "ViewState": "AgIAAIwDAAAAAAAAAAAtwJMDAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-01T14:58:51.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Board.h",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Board.h",
+              "RelativeDocumentMoniker": "Lawn\\Board.h",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Board.h",
+              "RelativeToolTip": "Lawn\\Board.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAPgBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-27T20:15:49.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SaveGame.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\System\\SaveGame.cpp",
+              "RelativeDocumentMoniker": "Lawn\\System\\SaveGame.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\System\\SaveGame.cpp",
+              "RelativeToolTip": "Lawn\\System\\SaveGame.cpp",
+              "ViewState": "AgIAAD0GAAAAAAAAAAAtwH4GAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-31T17:34:06.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameSelector.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\GameSelector.cpp",
+              "RelativeDocumentMoniker": "Lawn\\Widget\\GameSelector.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\GameSelector.cpp",
+              "RelativeToolTip": "Lawn\\Widget\\GameSelector.cpp",
+              "ViewState": "AgIAAHMEAAAAAAAAAAAowJkEAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-30T09:02:22.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Coin.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Coin.cpp",
+              "RelativeDocumentMoniker": "Lawn\\Coin.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Coin.cpp",
+              "RelativeToolTip": "Lawn\\Coin.cpp",
+              "ViewState": "AgIAAIkBAAAAAAAAAAAYwJwBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-27T20:13:26.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zombie.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Zombie.cpp",
+              "RelativeDocumentMoniker": "Lawn\\Zombie.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Zombie.cpp",
+              "RelativeToolTip": "Lawn\\Zombie.cpp",
+              "ViewState": "AgIAAN8HAAAAAAAAAAAYwAEIAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-26T16:56:07.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Zombie.h",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Zombie.h",
+              "RelativeDocumentMoniker": "Lawn\\Zombie.h",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Zombie.h",
+              "RelativeToolTip": "Lawn\\Zombie.h",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwC0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-30T09:53:00.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ZenGarden.h",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\ZenGarden.h",
+              "RelativeDocumentMoniker": "Lawn\\ZenGarden.h",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\ZenGarden.h",
+              "RelativeToolTip": "Lawn\\ZenGarden.h",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-01T13:08:16.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Board.cpp",
+              "DocumentMoniker": "C:\\PvZ-Quality-Enhanced-main\\Lawn\\Board.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\PvZ-Quality-Enhanced-main\\Lawn\\Board.cpp",
+              "ToolTip": "C:\\PvZ-Quality-Enhanced-main\\Lawn\\Board.cpp",
+              "RelativeToolTip": "..\\..\\..\\PvZ-Quality-Enhanced-main\\Lawn\\Board.cpp",
+              "ViewState": "AgIAAIcPAAAAAAAAAAAYwJwPAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-07T12:39:50.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConstEnums.h",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\ConstEnums.h",
+              "RelativeDocumentMoniker": "ConstEnums.h",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\ConstEnums.h",
+              "RelativeToolTip": "ConstEnums.h",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAawPkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-26T15:21:47.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Plant.h",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Plant.h",
+              "RelativeDocumentMoniker": "Lawn\\Plant.h",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Plant.h",
+              "RelativeToolTip": "Lawn\\Plant.h",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAAANkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-26T15:19:17.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AchievementsScreen.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\AchievementsScreen.cpp",
+              "RelativeDocumentMoniker": "Lawn\\Widget\\AchievementsScreen.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\AchievementsScreen.cpp",
+              "RelativeToolTip": "Lawn\\Widget\\AchievementsScreen.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAAAawCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-26T20:29:08.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SeedPacket.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\SeedPacket.cpp",
+              "RelativeDocumentMoniker": "Lawn\\SeedPacket.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\SeedPacket.cpp",
+              "RelativeToolTip": "Lawn\\SeedPacket.cpp",
+              "ViewState": "AgIAALUBAAAAAAAAAAAawMgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-01T14:23:34.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GridItem.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\GridItem.cpp",
+              "RelativeDocumentMoniker": "Lawn\\GridItem.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\GridItem.cpp",
+              "RelativeToolTip": "Lawn\\GridItem.cpp",
+              "ViewState": "AgIAAGsCAAAAAAAAAAAawHcCAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-05T17:49:29.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LawnApp.h",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\LawnApp.h",
+              "RelativeDocumentMoniker": "LawnApp.h",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\LawnApp.h",
+              "RelativeToolTip": "LawnApp.h",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAgwIcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-30T09:18:35.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-30T08:59:36.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Resources.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Resources.cpp",
+              "RelativeDocumentMoniker": "Resources.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Resources.cpp",
+              "RelativeToolTip": "Resources.cpp",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAuwAQBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-06T15:29:48.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Challenge.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Challenge.cpp",
+              "RelativeDocumentMoniker": "Lawn\\Challenge.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Challenge.cpp",
+              "RelativeToolTip": "Lawn\\Challenge.cpp",
+              "ViewState": "AgIAALoJAAAAAAAAAAAawMYJAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-26T17:04:56.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AlmanacDialog.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\AlmanacDialog.cpp",
+              "RelativeDocumentMoniker": "Lawn\\Widget\\AlmanacDialog.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\AlmanacDialog.cpp",
+              "RelativeToolTip": "Lawn\\Widget\\AlmanacDialog.cpp",
+              "ViewState": "AgIAAI4BAAAAAAAAAAAawKIBAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-06T15:04:45.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ZenGarden.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\ZenGarden.cpp",
+              "RelativeDocumentMoniker": "Lawn\\ZenGarden.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\ZenGarden.cpp",
+              "RelativeToolTip": "Lawn\\ZenGarden.cpp",
+              "ViewState": "AgIAAMQEAAAAAAAAAAAawNcEAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-01T17:36:46.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MessageWidget.h",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\MessageWidget.h",
+              "RelativeDocumentMoniker": "Lawn\\MessageWidget.h",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\MessageWidget.h",
+              "RelativeToolTip": "Lawn\\MessageWidget.h",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-30T08:50:37.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NewOptionsDialog.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\NewOptionsDialog.cpp",
+              "RelativeDocumentMoniker": "Lawn\\Widget\\NewOptionsDialog.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\NewOptionsDialog.cpp",
+              "RelativeToolTip": "Lawn\\Widget\\NewOptionsDialog.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAuwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-26T18:58:56.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TitleScreen.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\TitleScreen.cpp",
+              "RelativeDocumentMoniker": "Lawn\\Widget\\TitleScreen.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\TitleScreen.cpp",
+              "RelativeToolTip": "Lawn\\Widget\\TitleScreen.cpp",
+              "ViewState": "AgIAAKwBAAAAAAAAAADwv78BAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-30T09:20:02.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NewOptionsDialog.h",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\NewOptionsDialog.h",
+              "RelativeDocumentMoniker": "Lawn\\Widget\\NewOptionsDialog.h",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\NewOptionsDialog.h",
+              "RelativeToolTip": "Lawn\\Widget\\NewOptionsDialog.h",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-03T11:21:09.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SeedChooserScreen.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\SeedChooserScreen.cpp",
+              "RelativeDocumentMoniker": "Lawn\\Widget\\SeedChooserScreen.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\SeedChooserScreen.cpp",
+              "RelativeToolTip": "Lawn\\Widget\\SeedChooserScreen.cpp",
+              "ViewState": "AgIAACcCAAAAAAAAAAAiwDoCAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-01T17:38:06.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ContinueDialog.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\ContinueDialog.cpp",
+              "RelativeDocumentMoniker": "Lawn\\Widget\\ContinueDialog.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\ContinueDialog.cpp",
+              "RelativeToolTip": "Lawn\\Widget\\ContinueDialog.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-26T19:45:29.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Dialog.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\SexyAppFramework\\widget\\Dialog.cpp",
+              "RelativeDocumentMoniker": "SexyAppFramework\\widget\\Dialog.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\SexyAppFramework\\widget\\Dialog.cpp",
+              "RelativeToolTip": "SexyAppFramework\\widget\\Dialog.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-02T09:32:19.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SexyAppBase.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\SexyAppFramework\\SexyAppBase.cpp",
+              "RelativeDocumentMoniker": "SexyAppFramework\\SexyAppBase.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\SexyAppFramework\\SexyAppBase.cpp",
+              "RelativeToolTip": "SexyAppFramework\\SexyAppBase.cpp",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAiwHYBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-02T09:35:08.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CheatDialog.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\CheatDialog.cpp",
+              "RelativeDocumentMoniker": "Lawn\\Widget\\CheatDialog.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\CheatDialog.cpp",
+              "RelativeToolTip": "Lawn\\Widget\\CheatDialog.cpp",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAiwI4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-02T10:09:50.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LawnDialog.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\LawnDialog.cpp",
+              "RelativeDocumentMoniker": "Lawn\\Widget\\LawnDialog.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\LawnDialog.cpp",
+              "RelativeToolTip": "Lawn\\Widget\\LawnDialog.cpp",
+              "ViewState": "AgIAALcBAAAAAAAAAAAiwMoBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-26T20:17:56.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TodStringFile.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Sexy.TodLib\\TodStringFile.cpp",
+              "RelativeDocumentMoniker": "Sexy.TodLib\\TodStringFile.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Sexy.TodLib\\TodStringFile.cpp",
+              "RelativeToolTip": "Sexy.TodLib\\TodStringFile.cpp",
+              "ViewState": "AgIAAKYAAAAAAAAAAADgv7gAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-02T09:47:17.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "StoreScreen.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\StoreScreen.cpp",
+              "RelativeDocumentMoniker": "Lawn\\Widget\\StoreScreen.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\StoreScreen.cpp",
+              "RelativeToolTip": "Lawn\\Widget\\StoreScreen.cpp",
+              "ViewState": "AgIAAPYDAAAAAAAAAAAiwAkEAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-30T09:08:41.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "GameConstants.h",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\GameConstants.h",
+              "RelativeDocumentMoniker": "GameConstants.h",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\GameConstants.h",
+              "RelativeToolTip": "GameConstants.h",
+              "ViewState": "AgIAADcAAAAAAAAAAGBnwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-27T20:15:20.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ToolTipWidget.h",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\ToolTipWidget.h",
+              "RelativeDocumentMoniker": "Lawn\\ToolTipWidget.h",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\ToolTipWidget.h",
+              "RelativeToolTip": "Lawn\\ToolTipWidget.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-01T17:36:46.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ToolTipWidget.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\ToolTipWidget.cpp",
+              "RelativeDocumentMoniker": "Lawn\\ToolTipWidget.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\ToolTipWidget.cpp",
+              "RelativeToolTip": "Lawn\\ToolTipWidget.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-01T17:36:46.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SeedPacket.h",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\SeedPacket.h",
+              "RelativeDocumentMoniker": "Lawn\\SeedPacket.h",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\SeedPacket.h",
+              "RelativeToolTip": "Lawn\\SeedPacket.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-08-01T17:36:46.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LawnMower.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\LawnMower.cpp",
+              "RelativeDocumentMoniker": "Lawn\\LawnMower.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\LawnMower.cpp",
+              "RelativeToolTip": "Lawn\\LawnMower.cpp",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAAAA8BAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-01T12:43:31.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Projectile.h",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Projectile.h",
+              "RelativeDocumentMoniker": "Lawn\\Projectile.h",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Projectile.h",
+              "RelativeToolTip": "Lawn\\Projectile.h",
+              "ViewState": "AgIAAFQAAAAAAAAAAIBpwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-26T15:21:22.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TodCommon.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Sexy.TodLib\\TodCommon.cpp",
+              "RelativeDocumentMoniker": "Sexy.TodLib\\TodCommon.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Sexy.TodLib\\TodCommon.cpp",
+              "RelativeToolTip": "Sexy.TodLib\\TodCommon.cpp",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAAwNkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-01T06:51:50.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserDialog.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\UserDialog.cpp",
+              "RelativeDocumentMoniker": "Lawn\\Widget\\UserDialog.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\UserDialog.cpp",
+              "RelativeToolTip": "Lawn\\Widget\\UserDialog.cpp",
+              "ViewState": "AgIAAHcAAAAAAAAAAIAwwIsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-26T20:07:49.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TitleScreen.h",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\TitleScreen.h",
+              "RelativeDocumentMoniker": "Lawn\\Widget\\TitleScreen.h",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\TitleScreen.h",
+              "RelativeToolTip": "Lawn\\Widget\\TitleScreen.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-30T09:21:33.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MessageWidget.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\MessageWidget.cpp",
+              "RelativeDocumentMoniker": "Lawn\\MessageWidget.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\MessageWidget.cpp",
+              "RelativeToolTip": "Lawn\\MessageWidget.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwEwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-30T08:49:17.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "NewUserDialog.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\NewUserDialog.cpp",
+              "RelativeDocumentMoniker": "Lawn\\Widget\\NewUserDialog.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\NewUserDialog.cpp",
+              "RelativeToolTip": "Lawn\\Widget\\NewUserDialog.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-26T20:05:43.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AwardScreen.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\AwardScreen.cpp",
+              "RelativeDocumentMoniker": "Lawn\\Widget\\AwardScreen.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\Lawn\\Widget\\AwardScreen.cpp",
+              "RelativeToolTip": "Lawn\\Widget\\AwardScreen.cpp",
+              "ViewState": "AgIAAF8CAAAAAAAAAIAwwHYCAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-26T20:27:51.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GLInterface.cpp",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\SexyAppFramework\\platform\\3ds\\graphics\\GLInterface.cpp",
+              "RelativeDocumentMoniker": "SexyAppFramework\\platform\\3ds\\graphics\\GLInterface.cpp",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\src\\SexyAppFramework\\platform\\3ds\\graphics\\GLInterface.cpp",
+              "RelativeToolTip": "SexyAppFramework\\platform\\3ds\\graphics\\GLInterface.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAIAwwDUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-27T20:57:37.855Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
