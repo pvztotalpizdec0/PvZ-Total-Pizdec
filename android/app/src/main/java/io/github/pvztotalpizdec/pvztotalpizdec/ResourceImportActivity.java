@@ -19,7 +19,7 @@
  * along with PvZ-Portable. If not, see <https://www.gnu.org/licenses/>.
  */
 
-package io.github.wszqkzqk.pvzportable;
+package io.github.pvztotalpizdec.pvztotalpizdec;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -122,7 +122,7 @@ public class ResourceImportActivity extends AppCompatActivity {
             dirPicker.launch(null)
         );
         btnExportSave.setOnClickListener(v ->
-            saveExporter.launch("pvz-portable-savedata.zip")
+            saveExporter.launch("pvz-totalpizdec-savedata.zip")
         );
         btnImportSaveZip.setOnClickListener(v ->
             saveZipImporter.launch(new String[]{"application/zip", "application/x-zip-compressed"})

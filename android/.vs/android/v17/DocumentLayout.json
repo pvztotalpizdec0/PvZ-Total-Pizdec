@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\android\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\android\\settings.gradle||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:settings.gradle||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\android\\build\\reports\\problems\\problems-report.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:build\\reports\\problems\\problems-report.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\android\\app\\src\\main\\java\\io\\github\\wszqkzqk\\pvzportable\\PvZPortableActivity.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\src\\main\\java\\io\\github\\wszqkzqk\\pvzportable\\PvZPortableActivity.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\android\\app\\src\\main\\java\\io\\github\\wszqkzqk\\pvzportable\\ResourceImportActivity.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app\\src\\main\\java\\io\\github\\wszqkzqk\\pvzportable\\ResourceImportActivity.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "settings.gradle",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\android\\settings.gradle",
+              "RelativeDocumentMoniker": "settings.gradle",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\android\\settings.gradle",
+              "RelativeToolTip": "settings.gradle",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-08T15:38:16.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "problems-report.html",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\android\\build\\reports\\problems\\problems-report.html",
+              "RelativeDocumentMoniker": "build\\reports\\problems\\problems-report.html",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\android\\build\\reports\\problems\\problems-report.html",
+              "RelativeToolTip": "build\\reports\\problems\\problems-report.html",
+              "ViewState": "AgIAAHgCAAAAAAAAAAAEwIwCAABpFgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-08-08T15:38:02.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResourceImportActivity.java",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\android\\app\\src\\main\\java\\io\\github\\wszqkzqk\\pvzportable\\ResourceImportActivity.java",
+              "RelativeDocumentMoniker": "app\\src\\main\\java\\io\\github\\wszqkzqk\\pvzportable\\ResourceImportActivity.java",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\android\\app\\src\\main\\java\\io\\github\\wszqkzqk\\pvzportable\\ResourceImportActivity.java",
+              "RelativeToolTip": "app\\src\\main\\java\\io\\github\\wszqkzqk\\pvzportable\\ResourceImportActivity.java",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAGwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-08T15:36:06.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PvZPortableActivity.java",
+              "DocumentMoniker": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\android\\app\\src\\main\\java\\io\\github\\wszqkzqk\\pvzportable\\PvZPortableActivity.java",
+              "RelativeDocumentMoniker": "app\\src\\main\\java\\io\\github\\wszqkzqk\\pvzportable\\PvZPortableActivity.java",
+              "ToolTip": "C:\\pvztotalpizdec\\2. PvZ Total Pizdec\\android\\app\\src\\main\\java\\io\\github\\wszqkzqk\\pvzportable\\PvZPortableActivity.java",
+              "RelativeToolTip": "app\\src\\main\\java\\io\\github\\wszqkzqk\\pvzportable\\PvZPortableActivity.java",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-08T15:36:05.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
