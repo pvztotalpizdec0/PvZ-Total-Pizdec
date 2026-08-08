@@ -49,6 +49,8 @@ import java.io.OutputStream;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 
+import io.github.pvztotalpizdec.pvztotalpizdec.R;
+
 /**
  * Resource import and save data management via SAF.
  * No runtime storage permissions required.
