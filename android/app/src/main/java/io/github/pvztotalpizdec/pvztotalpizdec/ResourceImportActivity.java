@@ -97,15 +97,44 @@ public class ResourceImportActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        EdgeToEdge.enable(this);
         setContentView(R.layout.activity_resource_import);
+        ViewCompat.setOnApplyWindowInsetsListener(findViewById(android.R.id.content), (v, insets) -> {
+            Insets bars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
+            v.setPadding(bars.left, bars.top, bars.right, bars.bottom);
+            return insets;
+        });
 
-        if (hasResources()) {
-            startActivity(new Intent(this, PvZPortableActivity.class));
-            finish();
-            return;
-        }
+        gameDir = getExternalFilesDir(null);
+        if (gameDir != null && !gameDir.exists()) gameDir.mkdirs();
 
-        importFromAssets();
+        statusText    = findViewById(R.id.status_text);
+        progressBar   = findViewById(R.id.progress_bar);
+        btnPickZip    = findViewById(R.id.btn_pick_zip);
+        btnPickDir    = findViewById(R.id.btn_pick_dir);
+        btnExportSave = findViewById(R.id.btn_export_save);
+        btnImportSaveZip = findViewById(R.id.btn_import_save_zip);
+        btnImportSaveDir = findViewById(R.id.btn_import_save_dir);
+        btnLaunchGame = findViewById(R.id.btn_launch_game);
+
+        btnPickZip.setOnClickListener(v ->
+            zipPicker.launch(new String[]{"application/zip", "application/x-zip-compressed"})
+        );
+        btnPickDir.setOnClickListener(v ->
+            dirPicker.launch(null)
+        );
+        btnExportSave.setOnClickListener(v ->
+            saveExporter.launch("pvz-totalpizdec-savedata.zip")
+        );
+        btnImportSaveZip.setOnClickListener(v ->
+            saveZipImporter.launch(new String[]{"application/zip", "application/x-zip-compressed"})
+        );
+        btnImportSaveDir.setOnClickListener(v ->
+            saveDirImporter.launch(null)
+        );
+        btnLaunchGame.setOnClickListener(v -> launchGame());
+
+        refreshStatus();
     }
 
     private boolean hasResources() {
@@ -394,50 +423,4 @@ public class ResourceImportActivity extends AppCompatActivity {
         btnImportSaveDir.setEnabled(!working);
         btnLaunchGame.setEnabled(!working && hasResources());
     }
-
-    private void importFromAssets() {
-        if (gameDir == null) {
-            gameDir = getFilesDir();
-        }
-
-        setWorking(true);
-        new Thread(() -> {
-            try (InputStream is = getAssets().open("main.zip");
-                 ZipInputStream zis = new ZipInputStream(is)) {
-
-                ZipEntry entry;
-                while ((entry = zis.getNextEntry()) != null) {
-                    if (entry.isDirectory()) {
-                        zis.closeEntry();
-                        continue;
-                    }
-
-                    String name = stripCommonPrefix(entry.getName());
-                    if (name == null) { zis.closeEntry(); continue; }
-
-                    File outFile = new File(gameDir, name);
-                    File parent = outFile.getParentFile();
-                    if (parent != null && !parent.exists()) parent.mkdirs();
-
-                    try (OutputStream os = new BufferedOutputStream(new FileOutputStream(outFile), BUFFER_SIZE)) {
-                        byte[] buf = new byte[BUFFER_SIZE];
-                        int len;
-                        while ((len = zis.read(buf)) > 0) os.write(buf, 0, len);
-                    }
-                    zis.closeEntry();
-                }
-
-                runOnUiThread(() -> {
-                    startActivity(new Intent(ResourceImportActivity.this, PvZPortableActivity.class));
-                    finish();
-                });
-
-            } catch (Exception e) {
-                Log.e(TAG, "Import error", e);
-            } finally {
-                runOnUiThread(() -> setWorking(false));
-            }
-        }).start();
-    }
-}
 }
