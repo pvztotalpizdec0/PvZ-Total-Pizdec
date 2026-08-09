@@ -108,7 +108,7 @@ protected void onCreate(Bundle savedInstanceState) {
     setWorking(true);
 
     new Thread(() -> {
-        try (InputStream is = getAssets().open("main.zip");
+        try (InputStream is = getAssets().open("main.zip"); 
              ZipInputStream zis = new ZipInputStream(is)) {
             
             ZipEntry entry;
@@ -136,7 +136,7 @@ protected void onCreate(Bundle savedInstanceState) {
             runOnUiThread(() -> {
                 Toast.makeText(this, R.string.import_success, Toast.LENGTH_SHORT).show();
                 
-                Intent intent = new Intent(ResourceImportActivity.this, MainActivity.class);
+                Intent intent = new Intent(ResourceImportActivity.this, PvZPortableActivity.class);
                 startActivity(intent);
                 finish(); 
             });
