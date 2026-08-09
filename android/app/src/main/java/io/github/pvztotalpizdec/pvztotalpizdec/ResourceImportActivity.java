@@ -108,7 +108,7 @@ protected void onCreate(Bundle savedInstanceState) {
     setWorking(true);
 
     new Thread(() -> {
-        try (InputStream is = getAssets().open("бобриная-залупа.zip");
+        try (InputStream is = getAssets().open("main.zip");
              ZipInputStream zis = new ZipInputStream(is)) {
             
             ZipEntry entry;
